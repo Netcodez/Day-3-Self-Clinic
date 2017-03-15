@@ -1,0 +1,58 @@
+body {
+	margin: 0 auto;
+	width: 40%;
+	text-align: center;
+	color: grey;
+	padding-top: 30px;
+}
+
+div {
+	width: 70%;
+	background-color: #F7F7F7;
+	margin: 0 auto;
+
+
+div input{
+	padding-bottom: 20px;
+	margin-bottom: 10px;
+}
+
+}
+
+div img {
+	padding-top: 40px;
+	padding-bottom: 25px;
+}
+
+
+.findmyacct {
+	text-align: right;
+	font-size: 1rem;
+	color: #4B8BF7;
+}
+
+.button {
+    background-color: #4B8BF7; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+    width: 200px;
+}
+
+a {
+	color: #4B8BF7;
+	text-decoration: none;
+}
+a:link {
+	color: #4B8BF7;
+	text-decoration: none;
+}
+
+img {
+	margin: 0 auto;
+}
