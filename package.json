@@ -1,0 +1,29 @@
+{
+  "name": "project3",
+  "version": "1.0.0",
+  "description": "binary search test, find missing test",
+  "main": "FindMissingtest.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Netcodez/Day-3-Self-Clinic.git"
+  },
+  "keywords": [
+    "binary",
+    "search",
+    "find",
+    "missing",
+    "word"
+  ],
+  "author": "Neto Onyiaji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Netcodez/Day-3-Self-Clinic/issues"
+  },
+  "homepage": "https://github.com/Netcodez/Day-3-Self-Clinic#readme",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
